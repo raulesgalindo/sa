@@ -1,8 +1,8 @@
 # sa
 Documentos, codigo y demas para SA
-Diagramas
+# Diagramas
   Encontraran todo lo referente a documentaciòn, procesos definidos
-Codigo
+# Codigo
   Scripts o clases que nos puedan ayudar a todos
-Configuraciones
+# Configuraciones
   Archivos de configuracion como hosts
